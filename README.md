@@ -50,10 +50,11 @@ Arquivo responsável por armazenar os dados das vendas.
 
 Exemplo de estrutura:
 
+```text
 1 101 2 49.90
 2 102 1 89.90
 3 103 5 19.90
-
+```
 Cada linha representa uma venda contendo:
 
 ID da venda | ID do produto | Quantidade | Preço unitário
