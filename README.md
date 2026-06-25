@@ -32,14 +32,14 @@ O sistema realiza a leitura de arquivos contendo dados de vendas e produtos, per
 * Programação modular
 
 ## Estrutura dos arquivos
-
+```text
 sistema-analise-vendas-c/
 │
 ├── main.c
 ├── vendas.txt
 ├── produtos.csv
 └── README.md
-
+```
 ## Arquivos de entrada
 
 O sistema utiliza dois arquivos principais:
