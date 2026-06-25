@@ -100,15 +100,11 @@ gcc main.c -o sistema
 
 No Windows:
 
-```bash
 sistema.exe
-```
 
 No Linux ou macOS:
 
-```bash
 ./sistema
-```
 
 ## Observação importante
 
