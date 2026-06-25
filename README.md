@@ -33,14 +33,12 @@ O sistema realiza a leitura de arquivos contendo dados de vendas e produtos, per
 
 ## Estrutura dos arquivos
 
-```text
 sistema-analise-vendas-c/
 │
 ├── main.c
 ├── vendas.txt
 ├── produtos.csv
 └── README.md
-```
 
 ## Arquivos de entrada
 
@@ -52,17 +50,13 @@ Arquivo responsável por armazenar os dados das vendas.
 
 Exemplo de estrutura:
 
-```text
 1 101 2 49.90
 2 102 1 89.90
 3 103 5 19.90
-```
 
 Cada linha representa uma venda contendo:
 
-```text
 ID da venda | ID do produto | Quantidade | Preço unitário
-```
 
 ### produtos.csv
 
