@@ -112,7 +112,7 @@ No Linux ou macOS:
 
 ## Observação importante
 
-Os arquivos `vendas.txt` e `produtos.csv` devem estar na mesma pasta do arquivo executável para que o programa consiga realizar a leitura corretamente.
+Os arquivos vendas.txt e produtos.csv devem estar na mesma pasta do arquivo executável para que o programa consiga realizar a leitura corretamente.
 
 Caso algum arquivo não seja encontrado, o sistema exibirá uma mensagem de erro informando que não foi possível abrir o arquivo.
 
@@ -136,11 +136,6 @@ O projeto foi desenvolvido como parte dos meus estudos em Ciência da Computaç�
 Além de implementar as funcionalidades propostas, o objetivo principal foi compreender a lógica por trás de cada etapa do sistema, desde a leitura dos dados até a aplicação dos algoritmos de busca e ordenação.
 
 ## Autor
-
-Fernando Galante
-
-Estudante de Ciência da Computação, em constante evolução na área de tecnologia e desenvolvimento de software.
-
 
 Fernando Galante
 
